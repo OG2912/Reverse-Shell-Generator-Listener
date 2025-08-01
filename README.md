@@ -1,2 +1,23 @@
-# Reverse-Shell-Generator-Listener
-A Python-based tool to generate and catch reverse shells for ethical hacking, pentesting, and CTFs.
+# 🐚 Reverse Shell Generator + Listener
+
+A lightweight Python tool to generate common reverse shell payloads and listen for incoming connections.
+
+---
+
+## 🛠 Features
+
+- Generates reverse shell for:
+  - Bash
+  - Python
+  - Netcat
+- Built-in listener to catch connections
+- Linux-based
+
+---
+
+## 🔧 Usage
+
+### 1. Generate Reverse Shell Payload
+
+```bash
+python3 generator.py <your_ip> <port> -t bash
