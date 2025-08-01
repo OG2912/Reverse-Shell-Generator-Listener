@@ -2,6 +2,10 @@
 
 A lightweight Python tool to generate common reverse shell payloads and listen for incoming connections.
 
+⚠️ Legal Warning
+
+Use this tool only in authorized environments. This is for educational & ethical purposes only. Misuse may lead to criminal charges.
+
 ---
 
 ## 🛠 Features
